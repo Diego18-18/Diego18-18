@@ -2,6 +2,7 @@
 
 I am a software developer, self-taught and passionate about technology. I enjoy innovating and creating new things.
 
+- Visit my site: <a href="https://diego18-18.github.io/Portafolio-cv/">diego18-18.github.io/Portafolio-cv/</a>
 - 📫 Reach out to me at: <a href="diegocoderr@gmail.com">diegocoderr@gmail.com</a>
 
 ## My Skills Include
