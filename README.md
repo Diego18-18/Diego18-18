@@ -1,8 +1,8 @@
 <h1 align="center"><b>Hi , I'm Diego Escalona </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I am a software developer, self-taught and passionate about technology. I enjoy innovating and creating new things.
+I am a self-taught software developer passionate about technology. I am driven by innovation, continuous learning, and creating new things. I enjoy tackling challenges and improving myself every day.
 
-- Visit my site: <a href="https://diego18-18.github.io/Portafolio-cv/">diego18-18.github.io/Portafolio-cv/</a>
+- 💻 Visit my site: <a href="https://diego18-18.github.io/Portafolio-cv/">diego18-18.github.io/Portafolio-cv/</a>
 - 📫 Reach out to me at: <a href="diegocoderr@gmail.com">diegocoderr@gmail.com</a>
 
 ## My Skills Include
